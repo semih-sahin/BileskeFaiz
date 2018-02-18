@@ -12,7 +12,7 @@ int main(){
 //
 	cout << "Paranızı giriniz : ";
 	cin >> para;
-	cout << "Paranız kaç ay beklesin ?" << endl;
+	cout << "Paranız kaç ay beklesin(Aylık faiz bir önceki ayın %10'udur) ?" << endl;
 	cin >> ay;
 	toplamPara = para;
 //
